@@ -1,2 +1,2 @@
 # StructurePractice
-## It is a personal practice about the struce in C.
+## It is a personal practice about the structure in C.
